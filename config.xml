@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.phonegap.example"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>MINECRAFT BATTLE (EPIC)</name>
+
+  <description>
+      FIGHT A PIGMAN ZOMBIE USING BARE HANDS. WIN A PORKCHOP.
+  </description>
+
+  <author>
+      Louis-Félix Berthiaume
+  </author>
+  <icon src="icon.png" width="180" height="180" />
+</widget>
